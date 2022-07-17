@@ -1,0 +1,4 @@
+key-world for postgresSQL
+ # \d   ==== show all tables in database;
+ # \d table_name  ==== show properties of table it;
+ 
